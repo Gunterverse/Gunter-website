@@ -1,2 +1,2 @@
-# Gunter-website
-Repository for the Website
+# Gunter-Universe
+The repository for the website.
